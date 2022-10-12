@@ -11,3 +11,4 @@
 * seccion calidad al comprador
 * card con hover img
 * medios de pago
+* sass
